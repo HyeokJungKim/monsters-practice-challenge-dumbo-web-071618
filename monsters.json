@@ -5999,6 +5999,42 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "Javascript",
+      "age": 23,
+      "description": "Wow what a monster!",
+      "id": 1001
+    },
+    {
+      "name": "Ruby RailRoad Man",
+      "age": 20,
+      "description": "wow what a monster as well!",
+      "id": 1002
+    },
+    {
+      "name": "Eric",
+      "age": "23000",
+      "description": "Rawr!",
+      "id": 1003
+    },
+    {
+      "name": "Rawr",
+      "age": "34",
+      "description": "Rawrw!",
+      "id": 1004
+    },
+    {
+      "name": "Rawr",
+      "age": "34",
+      "description": "Rawrw!",
+      "id": 1005
+    },
+    {
+      "name": "231",
+      "age": "321",
+      "description": "Rawr!",
+      "id": 1006
     }
   ]
 }
